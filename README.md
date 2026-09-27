@@ -112,17 +112,17 @@ I regularly build and maintain full-stack applications, business websites, e-com
 <div align="center">
 
 <a href="https://github.com/Sohamaeer">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Sohamaeer&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Soham's GitHub Stats">
+  <img height="180" src="./profile/stats.svg" alt="Soham's GitHub Stats">
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/Sohamaeer">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohamaeer&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Soham's Top Languages">
+  <img height="180" src="./profile/top-langs.svg" alt="Soham's Top Languages">
 </a>
 
 </div>
 
 <p align="center">
-  <sub>📌 GitHub statistics are generated dynamically from my public GitHub activity.</sub>
+  <sub>📌 Stats are generated and updated automatically in this profile repository.</sub>
 </p>
 
 ---
