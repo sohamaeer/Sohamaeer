@@ -120,6 +120,8 @@ I regularly build and maintain full-stack applications, business websites, e-com
 
 </div>
 
+---
+
 ### 🔧 My Development Workflow
 
 ```text
