@@ -97,48 +97,71 @@ My work covers the complete development lifecycle — from responsive frontend i
 
 I regularly build and maintain full-stack applications, business websites, e-commerce platforms, AI-powered solutions and deployment-focused projects.
 
-### 🔗 Browse all repositories
-
 <p align="center">
   <a href="https://github.com/Sohamaeer?tab=repositories">
     <img src="https://img.shields.io/badge/🚀%20Explore%20All%20My%20GitHub%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore all GitHub projects">
   </a>
 </p>
 
-> 💡 **Want to see what I have built?** Check the repositories above for source code, project implementations and development work.
+> 💡 **Want to see what I have built?** Check my repositories for source code, project implementations and development work.
 
 ---
 
-## 📊 GitHub Snapshot
+## 📊 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/Sohamaeer">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Sohamaeer&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Soham's GitHub Stats">
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Sohamaeer">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohamaeer&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Soham's Top Languages">
+</a>
+
+</div>
 
 <p align="center">
-  <img src="https://img.shields.io/github/repos/Sohamaeer?style=for-the-badge&logo=github&label=Public%20Repositories" alt="Public repositories">
-  <img src="https://img.shields.io/github/followers/Sohamaeer?style=for-the-badge&logo=github&label=Followers" alt="Followers">
-  <img src="https://img.shields.io/github/stars/Sohamaeer?style=for-the-badge&logo=github&label=Stars" alt="Stars">
-  <img src="https://img.shields.io/github/commit-activity/y/Sohamaeer/Sohamaeer?style=for-the-badge&logo=github&label=Profile%20Repo%20Activity" alt="Profile repository activity">
-</p>
-
-<p align="center">
-  <a href="https://github.com/Sohamaeer">
-    <img src="https://img.shields.io/badge/View%20GitHub%20Profile-Visit%20Profile-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub profile">
-  </a>
+  <sub>📌 GitHub statistics are generated dynamically from my public GitHub activity.</sub>
 </p>
 
 ---
 
 ## 🛠️ What I Work On
 
+<div align="center">
+
+| 💻 **Build** | ⚙️ **Deploy** | 🔍 **Optimize** |
+|:---:|:---:|:---:|
+| React.js & Next.js | Linux VPS | Technical SEO |
+| Node.js & Express | Nginx & Apache | Schema Markup |
+| REST APIs | PM2 & SSH | XML Sitemaps |
+| MongoDB & MySQL | SSL & DNS | Metadata & Open Graph |
+
+</div>
+
+### 🔧 My Development Workflow
+
 ```text
-┌─────────────────────────────────────────────────────────────┐
-│  FRONTEND       → React.js • Next.js • Responsive UI       │
-│  BACKEND        → Node.js • Express.js • REST APIs        │
-│  DATABASES      → MongoDB • MySQL • Firestore              │
-│  DEVOPS         → Linux • VPS • Nginx • Apache • PM2       │
-│  DEPLOYMENT     → SSL • DNS • SSH • Reverse Proxy          │
-│  SEO            → Technical SEO • Schema • Sitemap         │
-│  AI             → LLM APIs • Groq • Prompt Engineering     │
-└─────────────────────────────────────────────────────────────┘
+┌──────────────┐     ┌──────────────┐     ┌──────────────┐
+│    BUILD     │ ──► │    DEPLOY    │ ──► │   OPTIMIZE   │
+│              │     │              │     │              │
+│ React / Next │     │ Linux / VPS  │     │ SEO / Schema │
+│ Node / APIs  │     │ Nginx / PM2  │     │ Performance  │
+│ Databases    │     │ SSL / DNS    │     │ Open Graph   │
+└──────────────┘     └──────────────┘     └──────────────┘
+                              │
+                              ▼
+                       ┌──────────────┐
+                       │   MAINTAIN   │
+                       │              │
+                       │ Monitoring   │
+                       │ Debugging    │
+                       │ Production   │
+                       └──────────────┘
 ```
+
+> **My focus:** turning ideas into working web applications and taking them from **development → deployment → optimization → production**.
 
 ---
 
