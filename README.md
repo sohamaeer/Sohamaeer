@@ -107,26 +107,6 @@ I regularly build and maintain full-stack applications, business websites, e-com
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/Sohamaeer">
-  <img height="180" src="./profile/stats.svg" alt="Soham's GitHub Stats">
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/Sohamaeer">
-  <img height="180" src="./profile/top-langs.svg" alt="Soham's Top Languages">
-</a>
-
-</div>
-
-<p align="center">
-  <sub>📌 Stats are generated and updated automatically in this profile repository.</sub>
-</p>
-
----
-
 ## 🛠️ What I Work On
 
 <div align="center">
