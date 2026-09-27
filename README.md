@@ -18,6 +18,8 @@
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=Sohamaeer&style=flat-square&color=7C3AED" alt="Profile views">
+  <img src="https://img.shields.io/github/followers/Sohamaeer?style=flat-square&label=Followers" alt="GitHub followers">
+  <img src="https://img.shields.io/github/stars/Sohamaeer?style=flat-square&label=Stars" alt="GitHub stars">
 </p>
 
 </div>
@@ -28,42 +30,49 @@
 
 I'm a **Full Stack Developer** focused on building, deploying, and maintaining production-ready web applications.
 
-My work spans the complete development lifecycle — from responsive frontend interfaces and backend APIs to **VPS infrastructure, reverse proxies, SSL, DNS, business email, technical SEO, and production troubleshooting**.
+My work covers the complete development lifecycle — from responsive frontend interfaces and backend APIs to **VPS infrastructure, reverse proxies, SSL, DNS, business email, technical SEO, AI integrations, and production troubleshooting**.
 
 - 💻 Building with **React.js, Next.js, Node.js & Express.js**
 - ⚙️ Deploying applications on **Linux VPS infrastructure**
 - 🌐 Working with **Apache, Nginx, PM2, SSH & Reverse Proxy**
 - 🔍 Implementing **Technical SEO, Schema Markup & Search Optimization**
 - 🤖 Integrating **AI/LLM APIs** into practical web applications
-- 💳 Working with services such as **Stripe, EmailJS & Nodemailer**
-- 🛠️ Interested in scalable, secure and production-ready web solutions
+- 💳 Working with **Stripe, EmailJS & Nodemailer**
+- 🛠️ Interested in secure, scalable and production-ready web solutions
 
 ---
 
 ## 🧰 Tech Stack
 
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" alt="Frontend technologies">
+### 🎨 Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,vite&perline=6" alt="Frontend technologies">
 </p>
 
-### Backend & Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" alt="Backend and database technologies">
+### ⚙️ Backend & Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,redis&perline=6" alt="Backend and database technologies">
 </p>
 
-### DevOps & Infrastructure
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,nginx,apache,docker,git,github" alt="DevOps technologies">
+### ☁️ DevOps & Infrastructure
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,nginx,docker,git,github&perline=6" alt="DevOps technologies">
 </p>
 
-**Also experienced with:** VPS Hosting • SSH • PM2 • Reverse Proxy • SSL • DNS • Apache Virtual Hosts • MariaDB • Redis • Supervisor
+**Infrastructure:** `Apache` `Nginx` `VPS` `SSH` `PM2` `Reverse Proxy` `SSL` `DNS` `Ubuntu Linux` `MariaDB` `Redis` `Supervisor`
 
-### AI, SEO & Integrations
+### 🤖 AI • SEO • Integrations
 
-`AI API Integration` `Prompt Engineering` `Groq Llama 3.1`  
-`Technical SEO` `Schema Markup` `XML Sitemap` `Robots.txt` `Open Graph`  
-`Stripe API` `Nodemailer` `EmailJS` `REST APIs`
+<p align="left">
+  <img src="https://img.shields.io/badge/AI%20%2F%20LLM-Groq%20Llama%203.1-7C3AED?style=for-the-badge" alt="AI LLM">
+  <img src="https://img.shields.io/badge/SEO-Technical%20SEO-0EA5E9?style=for-the-badge" alt="Technical SEO">
+  <img src="https://img.shields.io/badge/API-REST%20APIs-22C55E?style=for-the-badge" alt="REST APIs">
+</p>
+
+`Prompt Engineering` `AI API Integration` `Schema Markup` `XML Sitemap` `Robots.txt` `Open Graph` `Stripe API` `Nodemailer` `EmailJS`
 
 ---
 
@@ -84,64 +93,52 @@ My work spans the complete development lifecycle — from responsive frontend in
 
 ---
 
-## 🏗️ Featured Projects
+## 📂 Explore My Projects
 
-### 🔹 Integral Web Solution
-**React • Node.js • Express • Nodemailer • VPS**
+I regularly build and maintain full-stack applications, business websites, e-commerce platforms, AI-powered solutions and deployment-focused projects.
 
-Full-stack production website with backend email workflows, VPS deployment, Reverse Proxy, SSL, PM2 and SEO optimization.
+### 🔗 Browse all repositories
 
-🔗 [View Repository](https://github.com/Sohamaeer/integral-web-solution)
+<p align="center">
+  <a href="https://github.com/Sohamaeer?tab=repositories">
+    <img src="https://img.shields.io/badge/🚀%20Explore%20All%20My%20GitHub%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore all GitHub projects">
+  </a>
+</p>
 
----
-
-### 🔹 Shreeji Sales Corporation — SIMPOVENT®
-**Next.js • React • Express • Nodemailer • Technical SEO**
-
-Enterprise B2B platform featuring product catalogues, an interactive CFM calculator, lead generation and admin CMS.
-
-Implemented dynamic metadata, canonical URLs, XML sitemap, JSON-LD Schema, 50+ legacy 301 redirects and keyword-targeted product pages.
-
-🔗 [View Repository](https://github.com/Sohamaeer/shreeji-wind-ventilator)
+> 💡 **Want to see what I have built?** Check the repositories above for source code, project implementations and development work.
 
 ---
 
-### 🔹 PixelVault
-**Next.js • Node.js • Stripe**
+## 📊 GitHub Snapshot
 
-Full-stack e-commerce platform with responsive UI and a secure Stripe checkout integration.
+<p align="center">
+  <img src="https://img.shields.io/github/repos/Sohamaeer?style=for-the-badge&logo=github&label=Public%20Repositories" alt="Public repositories">
+  <img src="https://img.shields.io/github/followers/Sohamaeer?style=for-the-badge&logo=github&label=Followers" alt="Followers">
+  <img src="https://img.shields.io/github/stars/Sohamaeer?style=for-the-badge&logo=github&label=Stars" alt="Stars">
+  <img src="https://img.shields.io/github/commit-activity/y/Sohamaeer/Sohamaeer?style=for-the-badge&logo=github&label=Profile%20Repo%20Activity" alt="Profile repository activity">
+</p>
 
-🔗 [View Repository](https://github.com/Sohamaeer/pixelvault-wallpaper-store)
-
----
-
-### 🔹 Royal College Portal
-**Next.js • Node.js • Nodemailer**
-
-Institutional full-stack web application with dual-email automation.
-
-🔗 [View Repository](https://github.com/Sohamaeer/royal-college-portal)
-
----
-
-### 🔹 Kavya Fragrances
-**React • Node.js • Groq Llama 3.1 • SEO**
-
-AI-powered fragrance website with an AI recommendation system, backend email functionality and SEO optimization.
-
-🔗 [View Repository](https://github.com/Sohamaeer/kavya-fragrances)
+<p align="center">
+  <a href="https://github.com/Sohamaeer">
+    <img src="https://img.shields.io/badge/View%20GitHub%20Profile-Visit%20Profile-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub profile">
+  </a>
+</p>
 
 ---
 
-## 📊 GitHub
+## 🛠️ What I Work On
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sohamaeer&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Soham's GitHub Stats" width="49%">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sohamaeer&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%">
-
-</div>
+```text
+┌─────────────────────────────────────────────────────────────┐
+│  FRONTEND       → React.js • Next.js • Responsive UI       │
+│  BACKEND        → Node.js • Express.js • REST APIs        │
+│  DATABASES      → MongoDB • MySQL • Firestore              │
+│  DEVOPS         → Linux • VPS • Nginx • Apache • PM2       │
+│  DEPLOYMENT     → SSL • DNS • SSH • Reverse Proxy          │
+│  SEO            → Technical SEO • Schema • Sitemap         │
+│  AI             → LLM APIs • Groq • Prompt Engineering     │
+└─────────────────────────────────────────────────────────────┘
+```
 
 ---
 
@@ -154,29 +151,17 @@ Viva College, Virar • 2022 – 2025
 
 ## 📜 Certifications
 
-- Full Stack Web Development — CodeSignal
-- Web Development Certification — NASD
-- Git & GitHub Certification — Microsoft Learn
-
----
-
-## 🎯 What I Work On
-
-```text
-Frontend Development    → React.js • Next.js • Responsive UI
-Backend Development     → Node.js • Express.js • REST APIs
-Databases               → MongoDB • MySQL • Firestore
-DevOps                  → VPS • Linux • Nginx • Apache • PM2 • SSH
-Deployment              → Reverse Proxy • SSL • DNS • Production Setup
-SEO                     → Technical SEO • Schema • Sitemap • Metadata
-AI Integration          → LLM APIs • Groq • Prompt Engineering
-```
+- 🏆 Full Stack Web Development — CodeSignal
+- 🏆 Web Development Certification — NASD
+- 🏆 Git & GitHub Certification — Microsoft Learn
 
 ---
 
 ## 🤝 Let's Connect
 
-If you're looking for someone who can **build, deploy and maintain** a complete web solution, feel free to connect.
+Have a web project, deployment requirement, or technical challenge?
+
+Let's connect.
 
 <p align="center">
   <a href="mailto:sohamayer516@gmail.com">
